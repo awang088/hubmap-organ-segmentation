@@ -1,0 +1,8 @@
+./__pycache__
+
+./input/*
+
+./src/__pycache__
+./src/data_preparation/result
+./src/train/__pycache__
+./src/train/result
