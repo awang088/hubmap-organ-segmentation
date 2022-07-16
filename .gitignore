@@ -4,4 +4,9 @@ src/__pycache__/
 src/train/__pycache__
 src/data_preparation/result
 src/train/result
-input/*
+
+input/dataset_a_dib
+input/hubmap-kidney-segmentation
+input/hubmap-organ-segmentation
+
+.gitignore
